@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+to+my+Github+Profile;)
+
+
 <h3 align="center">A passionate embedded software engineer</h3>
 
 - 🔭 I’m currently working on **Real time robotic systems**
