@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A passionate embedded software engineer</h3>
 
-- 🔭 I’m currently working on **RT SYSTEMS**
+- 🔭 I’m currently working on **Real time robotic systems**
 
 
 
