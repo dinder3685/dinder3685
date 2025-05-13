@@ -3,6 +3,38 @@
 
 - 🔭 I’m currently working on **RT SYSTEMS**
 
+
+
+
+
+
+
+# 👋 Hi there, I'm Ahmed ELTAYEB!
+
+🎓 I'm a third-year **Electronics Engineering** student at **Firat University** in Türkiye, specializing in **Embedded Systems** and **Computer Vision**.
+
+🔧 Throughout my academic journey, I've worked on several hands-on projects:
+- 🤖 Autonomous Robotic Systems
+- 🖐️ Gesture-Controlled Interfaces
+- 🌐 IoT-Based Automation
+
+💻 **Tech Stack:**
+- **Languages:** C, C++, Python
+- **Platforms:** Arduino, STM32, Jetson Nano
+- **Tools:** MATLAB, OpenCV, KiCad, Proteus, Git
+
+🌍 I had the opportunity to study abroad at **Politehnica University of Bucharest**, gaining experience in **multicultural teamwork** and solving **real-world engineering challenges**.
+
+🚀 I'm actively seeking an **internship** where I can contribute to meaningful projects and grow both personally and professionally.
+
+📫 **Let’s connect!**
+- [LinkedIn](https://www.linkedin.com/in/yourusername) *(replace with your actual link)*
+- Email: ahmed.yourmail@example.com *(replace with your actual email)*
+
+---
+
+🛠️ *“Innovation is seeing what everybody has seen and thinking what nobody has thought.”*  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-eltayeb113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-eltayeb113/" height="30" width="40" /></a>
