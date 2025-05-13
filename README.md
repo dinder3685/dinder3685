@@ -22,22 +22,11 @@
 - 💬 I speak **C, C++, Python**, and sometimes... **Turkish, English, and Arabic**  
 - **Platforms:** Arduino, STM32, Jetson Nano
 - **Tools:** MATLAB, OpenCV, STM32CUBEIDE, Proteus, Git
-
-🌍 I had the opportunity to study abroad at **Politehnica University of Bucharest**, gaining experience in **multicultural teamwork** and solving **real-world engineering challenges**.
-
-
+- 
 ---
 
 🛠️ *“Innovation is seeing what everybody has seen and thinking what nobody has thought.”*  
 Dr. Albert, Szent- Györgyi
-
-
-
-
-
-
-
-
 
 
 <h3 align="left">Connect with me:</h3>
