@@ -29,6 +29,20 @@
 🛠️ *“Innovation is seeing what everybody has seen and thinking what nobody has thought.”*  
 Dr. Albert, Szent- Györgyi
 
+
+### 🧰 Tech Stack
+<img src="https://img.shields.io/badge/-C-informational?style=flat&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/-STM32-03234B?style=flat&logo=STMicroelectronics&logoColor=white" />
+<img src="https://img.shields.io/badge/-Jetson_Nano-76B900?style=flat&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-eltayeb113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-eltayeb113/" height="30" width="40" /></a>
