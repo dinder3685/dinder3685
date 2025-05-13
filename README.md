@@ -53,6 +53,9 @@ Dr. Albert, Szent- Györgyi
 <img src="https://img.shields.io/badge/-Jetson_Nano-76B900?style=flat&logo=nvidia&logoColor=white" />
 
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/public/gifs/code.gif" alt="embedded engineering gif" width="250"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/public/gifs/code.gif" alt="embedded engineering gif" width="250"/>
+</p>
 
 
 <br><br>
