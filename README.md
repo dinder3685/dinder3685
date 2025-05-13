@@ -22,6 +22,7 @@
 ---
 
 🛠️ *“Innovation is seeing what everybody has seen and thinking what nobody has thought.”*  
+Dr. Albert, Szent- Györgyi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
