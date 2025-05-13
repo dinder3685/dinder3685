@@ -17,7 +17,7 @@
 - 🌐 IoT-Based Automation
 
 💻 **Tech Stack:**
-- **Languages:** C, C++, Python,HVDL ,VERILOG.
+- 💬 I speak **C, C++, Python**, and sometimes... **Turkish, English, and Arabic**  
 - **Platforms:** Arduino, STM32, Jetson Nano
 - **Tools:** MATLAB, OpenCV, STM32CUBEIDE, Proteus, Git
 
