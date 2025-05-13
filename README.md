@@ -6,13 +6,6 @@
 
 
 
-
-
-
-# 👋 Hi there, I'm Ahmed ELTAYEB!
-
-🎓 I'm a third-year **Electronics Engineering** student at **Firat University** in Türkiye, specializing in **Embedded Systems** and **Computer Vision**.
-
 🔧 Throughout my academic journey, I've worked on several hands-on projects:
 - 🤖 Autonomous Robotic Systems
 - 🖐️ Gesture-Controlled Interfaces
@@ -21,15 +14,10 @@
 💻 **Tech Stack:**
 - **Languages:** C, C++, Python
 - **Platforms:** Arduino, STM32, Jetson Nano
-- **Tools:** MATLAB, OpenCV, KiCad, Proteus, Git
+- **Tools:** MATLAB, OpenCV, STM32CUBEIDE, Proteus, Git
 
 🌍 I had the opportunity to study abroad at **Politehnica University of Bucharest**, gaining experience in **multicultural teamwork** and solving **real-world engineering challenges**.
 
-🚀 I'm actively seeking an **internship** where I can contribute to meaningful projects and grow both personally and professionally.
-
-📫 **Let’s connect!**
-- [LinkedIn](https://www.linkedin.com/in/yourusername) *(replace with your actual link)*
-- Email: ahmed.yourmail@example.com *(replace with your actual email)*
 
 ---
 
