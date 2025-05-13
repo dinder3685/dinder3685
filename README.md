@@ -55,4 +55,4 @@ Dr. Albert, Szent- Györgyi
 
 
 
-![submarine](WhatsAppImage2025-04-30 at 10.55.49_10c103b3.jpg)WhatsApp Image 2025-04-30 at 10.55.49_10c103b3.jpg
+![submarine](WhatsApp Image 2025-04-30 at 10.55.49_10c103b3.jpg)
