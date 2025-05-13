@@ -12,7 +12,7 @@
 - 🌐 IoT-Based Automation
 
 💻 **Tech Stack:**
-- **Languages:** C, C++, Python
+- **Languages:** C, C++, Python,HVDL ,VERILOG.
 - **Platforms:** Arduino, STM32, Jetson Nano
 - **Tools:** MATLAB, OpenCV, STM32CUBEIDE, Proteus, Git
 
