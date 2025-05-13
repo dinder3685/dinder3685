@@ -15,8 +15,10 @@
 - 🤖 Autonomous Robotic Systems
 - 🖐️ Gesture-Controlled Interfaces
 - 🌐 IoT-Based Automation
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
 💻 **Tech Stack:**
+
 - 💬 I speak **C, C++, Python**, and sometimes... **Turkish, English, and Arabic**  
 - **Platforms:** Arduino, STM32, Jetson Nano
 - **Tools:** MATLAB, OpenCV, STM32CUBEIDE, Proteus, Git
