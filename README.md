@@ -55,4 +55,4 @@ Dr. Albert, Szent- Györgyi
 
 
 
-![submarine](WhatsApp Image 2025-04-30 at 10.55.49_10c103b3.jpg)
+![Our submarine](submarine.jpg)
