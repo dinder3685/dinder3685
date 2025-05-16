@@ -22,7 +22,7 @@
 - 💬 I speak **C, C++, Python**, and sometimes... **Turkish, English, and Arabic**  
 - **Platforms:** Arduino, STM32, Jetson Nano
 - **Tools:** MATLAB, OpenCV, STM32CUBEIDE, Proteus, Git
-- 
+
 ---
 
 🛠️ *“Innovation is seeing what everybody has seen and thinking what nobody has thought.”*  
