@@ -55,6 +55,12 @@ Dr. Albert, Szent- Györgyi
 ## 🚀 Project Gallery
 
 
-![Our submarine](ourAirsoft.jpg)
+![AIRSOFT](ourAirsoft.jpg)
 
 ![Our submarine](ULUKANsubmarine.jpg)
+
+![UART](STM32-ARDUINO-COMMUNICATION.jpg)
+
+![IOT](IOT.jpg)
+
+
