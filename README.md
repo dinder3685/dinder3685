@@ -43,6 +43,13 @@ Dr. Albert, Szent- Györgyi
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/-STM32-03234B?style=flat&logo=STMicroelectronics&logoColor=white" />
 <img src="https://img.shields.io/badge/-Jetson_Nano-76B900?style=flat&logo=nvidia&logoColor=white" />
+<img width="654" height="390" alt="Screenshot 2026-01-17 145936" src="https://github.com/user-attachments/assets/399c622c-cdc8-41ca-8098-9748710a2f65" />
+<img width="829" height="544" alt="Screenshot 2026-01-19 220737" src="https://github.com/user-attachments/assets/b0a53424-dc40-4cf4-850d-812e53ab0a62" />
+
+<img width="1001" height="455" alt="Screenshot 2026-01-05 104117" src="https://github.com/user-attachments/assets/555ba209-1a91-4b53-8921-15b93009bf75" />
+<img width="1896" height="714" alt="Screenshot 2025-12-27 224451" src="https://github.com/user-attachments/assets/b5926a7c-dea1-4343-8c7a-b33980fb5633" />
+
+
 
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/public/gifs/code.gif" alt="embedded engineering gif" width="250"/>
 <p align="center">
