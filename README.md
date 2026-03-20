@@ -43,6 +43,10 @@ Dr. Albert, Szent- Györgyi
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/-STM32-03234B?style=flat&logo=STMicroelectronics&logoColor=white" />
 <img src="https://img.shields.io/badge/-Jetson_Nano-76B900?style=flat&logo=nvidia&logoColor=white" />
+
+
+## 🚀 Project Gallery
+
 <img width="654" height="390" alt="Screenshot 2026-01-17 145936" src="https://github.com/user-attachments/assets/399c622c-cdc8-41ca-8098-9748710a2f65" />
 <img width="829" height="544" alt="Screenshot 2026-01-19 220737" src="https://github.com/user-attachments/assets/b0a53424-dc40-4cf4-850d-812e53ab0a62" />
 
@@ -59,7 +63,7 @@ Dr. Albert, Szent- Györgyi
 
 <br><br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-## 🚀 Project Gallery
+
 
 
 ![AIRSOFT](ourAirsoft.jpg)
