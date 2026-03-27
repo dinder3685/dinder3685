@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed</h1>
+<h1 align="center">Hi , I'm Ahmed</h1>
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+to+my+Github+pofile;)
@@ -12,14 +12,13 @@
 
 
 🔧 Throughout my academic journey, I've worked on several hands-on projects:
-- 🤖 Autonomous Robotic Systems
-- 🖐️ Gesture-Controlled Interfaces
-- 🌐 IoT-Based Automation
+- Autonomous Robotic Systems
+-  IoT-Based Automation
 
 
-💻 **Tech Stack:**
+ **Tech Stack:**
 
-- 💬 I speak **C, C++, Python**, and sometimes... **Turkish, English, and Arabic**  
+-  I speak **C, C++, Python**, and sometimes... **Turkish, English, and Arabic**  
 - **Platforms:** Arduino, STM32, Jetson Nano
 - **Tools:** MATLAB, OpenCV, STM32CUBEIDE, Proteus, Git
 
